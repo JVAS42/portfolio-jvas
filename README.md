@@ -1,2 +1,2 @@
 # portfolio-jvas
-Portfólio desenvolvido em HTML e CSS seguindo os cursos da Alura
+Portfólio desenvolvido em HTML e CSS para mostrar um pouco do meu trabalho
