@@ -18,4 +18,4 @@ Participei do curso "A partir do zero: HTML e CSS para projetos web" para aprend
 
 Cursos: [Formacao A partir do zero: HTML e CSS para projetos web](https://cursos.alura.com.br/formacao-html-css)
 
-![certificado-web](https://github.com/JVAS42/teste-readme/assets/61116930/69ba6179-abb3-44e6-9ef8-52cc9bbb8ec1) OR So jogar imagem aqui dentro
+![certificado-web](https://github.com/JVAS42/portfolio-jvas/assets/61116930/1d3cc4c7-bf58-4987-9114-66f8e0827b4f)
